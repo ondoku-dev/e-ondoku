@@ -1,0 +1,26 @@
+{
+  "normal": [
+    {
+      "name": "cat",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqjrXz4UNuYKylrB827bZjszfzUdQgPXGcxtyAmLjATy5XryKOenEffe-GLdroDWF9Y1FmXnhbREabgpDG0LxJ9rofWHDX0_ACsP847GlkYxIiQSYpCd7ZsYXl3_Em5Ba-0bl1mGVNT8B84t19TDHgCU2a5gvF0oTuI8xkmes6DAO-QjklLF00REp9INj7/s1600/updating600b.webp",
+      "weight": 10,
+      "text": ["こんにちは❤", "がんばってね❤"]
+    }
+  ],
+  "rare": [
+    {
+      "name": "angel",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv_wUfdpZDNjTyK9ynoVgrcjDPZqkmsKeB0xDON0BXQcxsNqQ1hlR21pfxsBgj43Jd0TbjcASdYF0ppe577hDMsEx568U2kXYxdGqRRfDklnGEYyzjI5Y2h8AXTL11jOfSoc2ipaxFaJBi1dYLbyUYCcZknNWOrZ3H3UYxChPmwHjfkoRQBV-ksewsnFng/s1600/600x503.webp",
+      "weight": 5,
+      "text": ["今日は特別だよ！"]
+    }
+  ],
+  "super": [
+    {
+      "name": "legend",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhohbatweHrQfhCfEElqiIFfXwM8wEkFsLCJk1hcxK2IZCy0Kynl9aqvZzSwcdalPoq0_HtFBKh3tTKgTsUfpFv5bFaIx0jXOUISlnSiddkJYyeKyU7-nQXSYw7KbZhMBRtP8J43AShnZfh9iwW68REUUQmsnssa16Jb5LUvymrlEpp967iscHYpvkipsbD/s1600/600x448.webp",
+      "weight": 5,
+      "text": ["伝説降臨\u2728"]
+    }
+  ]
+}
