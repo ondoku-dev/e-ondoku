@@ -4,14 +4,16 @@
       "name": "updating",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHVbwWADvEe7lMYf1PhI1QRyUpcsAu9LF7AAl7xE9u042YAmGUwzJgo3TSMOGztxBR6rmfDR00klahLRIE89Uj2BpVXtbuWLI2gbzY7m6VSL5dLVsu1WrGUd1qMeCLdD7d8UKuWQ2_Bq2TRHVl6VsY0ygBUvjL8Sh9GkaHS1Hru_BVmQyV5xqYDU7sOjRl/s1600/updating.png",
       "weight": 10,
-      "text": ["新しいお友達を呼んでるよ!", "See you soon!"]
+      "text": ["新しいお友達を呼んでるよ!", "See you soon!"],
+      "unlockMin": 0
     },
 
 {
       "name": "office-a",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCXwFH_pAh7Sd6yLKIUAcVTv_Jn6zs6IM4eOjWYSIOph6yF4nxa3gNZKx9SrJ0lZg_MYxsrf-VAqdxOYqq4rl16lRtOZX1sEzncvdQw5HoF9qZz93lcBjVQWmojeG8UWiY-B68fAG1hsYKZXRgJFrwkt3xmuV0XciuiJ4PIzA6FGIYZ-B_p3utELiO53Ry/s1600/office-a.webp",
       "weight": 10,
-      "text": ["こんにちは❤", "がんばってね❤"]
+      "text": ["こんにちは❤", "がんばってね❤"],
+  "unlockMin": 0
     }
 
 
@@ -22,7 +24,8 @@
       "name": "cheer-a",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfr8PkZ5Ns89nZXeXr9uv7lSuPZQSYD7BUciNYy5NHLYk5LBMNoFc7xv0jDoeGbuQKBMopvkZen-GxxYMBZK3zdBDKvDMqPetIC5IAamzZBMoQ0ZHQNf3JgZmJtaHaVgcEcxoLNS7Up_6pagk3Igt2ZUGgAHuU0byk0udcNWW49GXYQYUgeOHS6DFvuBSX/s1600/cheer-a.webp",
       "weight": 5,
-      "text": ["今日は特別だよ！"]
+      "text": ["今日は特別だよ！"],
+      "unlockMin": 0
     }
   ],
   "super": [
@@ -30,7 +33,9 @@
       "name": "witch-a",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqOTzX9TXbFmiVH-mIevz-MK61cYnS_dY3eeVV0XA8BjAw1cyp7s5XULf3TUAzU46GXWDeACX8rX-vkIAGXXAZkKvQCRZ_dSTeU0Elb2iXjzwoPJcVNkt5HI4N4Gztvd0KaQPtiYIBvtLSIHrkpQkNZbImjdS-Zt0g9pbUpCyTHSAVfNdBspsjIFT_ICYJ/s1600/witch-a.webp",
       "weight": 2,
-      "text": ["伝説降臨\u2728"]
+      "text": ["伝説降臨\u2728"],
+      "unlockMin": 0
     }
   ]
+
 }
