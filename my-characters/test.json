@@ -9,7 +9,18 @@
         "top",
         "end"
       ],
-      "unlock_minutes": 0,
+      "time": [
+        "morning",
+        "day"
+      ],
+      "season": [
+        "spring"
+      ],
+      "period": {
+        "start": "2026-02-28T15:00:00.000Z",
+        "end": "2026-04-29T15:00:00.000Z"
+      },
+      "unlock_minutes": 1000,
       "text": [
         "新しいお友達を呼んでるよ!",
         "See you soon!"
