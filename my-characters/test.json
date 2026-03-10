@@ -2,53 +2,104 @@
   "normal": [
     {
       "name": "updating",
+      "display_name": "工事中ガール",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHVbwWADvEe7lMYf1PhI1QRyUpcsAu9LF7AAl7xE9u042YAmGUwzJgo3TSMOGztxBR6rmfDR00klahLRIE89Uj2BpVXtbuWLI2gbzY7m6VSL5dLVsu1WrGUd1qMeCLdD7d8UKuWQ2_Bq2TRHVl6VsY0ygBUvjL8Sh9GkaHS1Hru_BVmQyV5xqYDU7sOjRl/s1600/updating.png",
       "weight": 10,
-      "tags": ["top", "end"],
-      "text": ["新しいお友達を呼んでるよ!", "See you soon!"],
-      "end_text": ["Great job today!", "See you tomorrow!"],
-      "unlock_minutes": 0
+      "tags": [
+        "top",
+        "end"
+      ],
+      "time": [],
+      "season": [],
+      "period": {
+        "start": "",
+        "end": ""
+      },
+      "unlock_minutes": "",
+      "text": [
+        "新しいお友達を呼んでるよ!",
+        "See you soon!"
+      ],
+      "end_text": [
+        "Great job today!",
+        "See you tomorrow!"
+      ]
     },
-
-{
-      "name": "office-a",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCXwFH_pAh7Sd6yLKIUAcVTv_Jn6zs6IM4eOjWYSIOph6yF4nxa3gNZKx9SrJ0lZg_MYxsrf-VAqdxOYqq4rl16lRtOZX1sEzncvdQw5HoF9qZz93lcBjVQWmojeG8UWiY-B68fAG1hsYKZXRgJFrwkt3xmuV0XciuiJ4PIzA6FGIYZ-B_p3utELiO53Ry/s1600/office-a.webp",
-      "weight": 10,
-      "tags": ["top", "end"],
-      "text": ["こんにちは❤", "がんばってね❤"],
-      "end_text": ["You worked hard. Go to sleep!", "Sweet dreams!"],
-  "unlock_minutes": 0
+    {
+      "name": "office-01",
+      "display_name": "セクシーお姉さん",
+      "img": "https://example.com/seal_sleepy.png",
+      "weight": 5,
+      "tags": [
+        "top",
+        "end"
+      ],
+      "time": [],
+      "season": [],
+      "period": {
+        "start": "",
+        "end": ""
+      },
+      "unlock_minutes": "",
+      "text": [
+        "こんにちは❤",
+        "がんばってね❤"
+      ],
+      "end_text": [
+        "You worked hard. Go to sleep!",
+        "Sweet dreams!"
+      ]
     }
-
-
-
   ],
   "rare": [
     {
-      "name": "cheer-a",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfr8PkZ5Ns89nZXeXr9uv7lSuPZQSYD7BUciNYy5NHLYk5LBMNoFc7xv0jDoeGbuQKBMopvkZen-GxxYMBZK3zdBDKvDMqPetIC5IAamzZBMoQ0ZHQNf3JgZmJtaHaVgcEcxoLNS7Up_6pagk3Igt2ZUGgAHuU0byk0udcNWW49GXYQYUgeOHS6DFvuBSX/s1600/cheer-a.webp",
-      "weight": 5,
-      "tags": ["top", "end"],
-      "text": ["今日は特別だよ！"],
-      "end_text": ["Wonderful progress!", "Spring brings new skills!"],
-      "unlock_minutes": 0
+      "name": "cheer-01",
+      "display_name": "元気ガール",
+      "img": "https://example.com/sakura_cat.png",
+      "weight": 3,
+      "tags": [
+        "top",
+        "end"
+      ],
+      "time": [],
+      "season": [],
+      "period": {
+        "start": "",
+        "end": ""
+      },
+      "unlock_minutes": "",
+      "text": [
+        "今日は特別だよ!"
+      ],
+      "end_text": [
+        "Wonderful progress!",
+        "Spring brings new skills!"
+      ]
     }
   ],
   "super": [
     {
-      "name": "witch-a",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqOTzX9TXbFmiVH-mIevz-MK61cYnS_dY3eeVV0XA8BjAw1cyp7s5XULf3TUAzU46GXWDeACX8rX-vkIAGXXAZkKvQCRZ_dSTeU0Elb2iXjzwoPJcVNkt5HI4N4Gztvd0KaQPtiYIBvtLSIHrkpQkNZbImjdS-Zt0g9pbUpCyTHSAVfNdBspsjIFT_ICYJ/s1600/witch-a.webp",
-      "weight": 2,
-      "tags": ["top", "end"],
-      "text": ["魔女降臨!\u2728"],
-      "end_text": ["Incredible!", "You are a master!"],
-      "unlock_minutes": 0
+      "name": "witch-01",
+      "display_name": "きらりん魔女",
+      "img": "https://example.com/king_cat.png",
+      "weight": 1,
+      "tags": [
+        "end"
+      ],
+      "time": [],
+      "season": [],
+      "period": {
+        "start": "",
+        "end": ""
+      },
+      "unlock_minutes": "",
+      "text": [
+        "魔女降臨!"
+      ],
+      "end_text": [
+        "Incredible!!",
+        "You are a master!"
+      ]
     }
   ]
-
 }
-
-
-
-
-
