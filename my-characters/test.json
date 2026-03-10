@@ -41,12 +41,13 @@
       "weight": 2,
       "tags": ["top", "end"],
       "text": ["魔女降臨!\u2728"],
-      "end_text": ["Incredible! 1000 minutes!", "You are a master!"],
+      "end_text": ["Incredible!", "You are a master!"],
       "unlockMin": 0
     }
   ]
 
 }
+
 
 
 
