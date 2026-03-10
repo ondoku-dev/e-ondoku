@@ -6,7 +6,7 @@
       "weight": 10,
       "tags": ["top", "end"],
       "text": ["新しいお友達を呼んでるよ!", "See you soon!"],
-      "end_text": ["Great job today!", "See you tomorrow!"]
+      "end_text": ["Great job today!", "See you tomorrow!"],
       "unlockMin": 0
     },
 
@@ -16,7 +16,7 @@
       "weight": 10,
       "tags": ["top", "end"],
       "text": ["こんにちは❤", "がんばってね❤"],
-      "end_text": ["You worked hard. Go to sleep!", "Sweet dreams!"]
+      "end_text": ["You worked hard. Go to sleep!", "Sweet dreams!"],
   "unlockMin": 0
     }
 
@@ -30,7 +30,7 @@
       "weight": 5,
       "tags": ["top", "end"],
       "text": ["今日は特別だよ！"],
-      "end_text": ["Wonderful progress!", "Spring brings new skills!"]
+      "end_text": ["Wonderful progress!", "Spring brings new skills!"],
       "unlockMin": 0
     }
   ],
@@ -41,11 +41,12 @@
       "weight": 2,
       "tags": ["top", "end"],
       "text": ["魔女降臨!\u2728"],
-      "end_text": ["Incredible! 1000 minutes!", "You are a master!"]
+      "end_text": ["Incredible! 1000 minutes!", "You are a master!"],
       "unlockMin": 0
     }
   ]
 
 }
+
 
 
