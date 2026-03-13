@@ -3,7 +3,8 @@
     "title": "Favorite food?",
     "tags": [
       "food",
-      "daily"
+      "preference",
+      "self"
     ],
     "difficulty": 1,
     "created": "2026-02-28T15:00:00.000Z",
@@ -14,8 +15,8 @@
   {
     "title": "What makes you happy?",
     "tags": [
-      "feelings",
-      "life"
+      "self",
+      "fun"
     ],
     "difficulty": 1,
     "created": "2026-02-28T15:00:00.000Z",
@@ -26,8 +27,8 @@
   {
     "title": "Weekend plan?",
     "tags": [
-      "daily",
-      " weekend"
+      "self",
+      "future"
     ],
     "difficulty": 1,
     "created": "2026-02-28T15:00:00.000Z",
